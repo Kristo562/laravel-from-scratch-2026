@@ -1,4 +1,4 @@
 <x-layout>
-    <h1>About</h1>
-    <p>This is the about page.</p>
+    <h1>{{ $title }}</h1>
+    <p>{{ $message }}</p>
 </x-layout>
